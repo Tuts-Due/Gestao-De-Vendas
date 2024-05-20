@@ -1,0 +1,17 @@
+[
+  {"id": 1, "descricao": "Abacaxi", "codigoVenda": "V001", "valorUnitario": 10.99, "quantidadeVendida": 5},
+  {"id": 2, "descricao": "Acerola", "codigoVenda": "V002", "valorUnitario": 20.50, "quantidadeVendida": 3},
+  {"id": 3, "descricao": "Pitomba", "codigoVenda": "V003", "valorUnitario": 15.75, "quantidadeVendida": 8},
+  {"id": 4, "descricao": "Jambu", "codigoVenda": "V004", "valorUnitario": 8.99, "quantidadeVendida": 10},
+  {"id": 5, "descricao": "Carambola", "codigoVenda": "V005", "valorUnitario": 25.00, "quantidadeVendida": 12},
+  {"id": 6, "descricao": "Açaí", "codigoVenda": "V006", "valorUnitario": 5.50, "quantidadeVendida": 6},
+  {"id": 7, "descricao": "Manga", "codigoVenda": "V007", "valorUnitario": 18.20, "quantidadeVendida": 15},
+  {"id": 8, "descricao": "Laranja", "codigoVenda": "V008", "valorUnitario": 12.99, "quantidadeVendida": 4},
+  {"id": 9, "descricao": "Cajá", "codigoVenda": "V009", "valorUnitario": 30.00, "quantidadeVendida": 7},
+  {"id": 10, "descricao": "Cajú", "codigoVenda": "V010", "valorUnitario": 22.50, "quantidadeVendida": 9},
+  {"id": 11, "descricao": "Siriguela", "codigoVenda": "V011", "valorUnitario": 16.75, "quantidadeVendida": 11},
+  {"id": 12, "descricao": "Tamarindo", "codigoVenda": "V012", "valorUnitario": 7.99, "quantidadeVendida": 14},
+  {"id": 13, "descricao": "Graviola", "codigoVenda": "V013", "valorUnitario": 28.00, "quantidadeVendida": 17},
+  {"id": 14, "descricao": "Kaki", "codigoVenda": "V014", "valorUnitario": 6.50, "quantidadeVendida": 8},
+  {"id": 15, "descricao": "Pitanga", "codigoVenda": "V015", "valorUnitario": 19.20, "quantidadeVendida": 13}
+]

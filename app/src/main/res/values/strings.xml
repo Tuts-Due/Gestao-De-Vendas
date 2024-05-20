@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GestaoDeVendas</string>
+    <string name="export_csv">Exportar para CSV</string>
+    <string name="buscar">Buscar por produto</string>
+    <string name="id">ID</string>
+    <string name="descricao">Descrição</string>
+    <string name="valUnitario">Valor Unitário</string>
+    <string name="qtdEstoque">Quantidade em Estoque</string>
+    <string name="qtdVendida">Quantidade vendida</string>
+    <string name="codigo_venda">Codigo de Venda</string>
+    <string name="total">R$ </string>
+    <string name="total_venda">Total:R$%.2f </string>
+</resources>
